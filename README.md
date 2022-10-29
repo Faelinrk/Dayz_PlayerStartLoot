@@ -8,6 +8,5 @@
 2) Берёшь папку PlayerSpawn, кидаешь в profile своего сервера (или что там у тебя указано в батнике запуска в параметре -profiles)
 3) Исправляешь настройки в файле playerSpawnConfig.json
 4) Удаляешь ко всем чертям override void StartingEquipSetup и то что в нём в файле init.c твоей миссии
-5) Ключ из папочки кидаем в keys сервера
-6) В бинарнике сервера указываем "-servermod=@StartItems;"
+5) В бинарнике сервера указываем "-servermod=@StartItems;"
 
