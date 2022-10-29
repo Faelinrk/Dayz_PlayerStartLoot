@@ -1,0 +1,37 @@
+{
+	"randomQuality": 1,
+	"foodCount": 3,
+	"startFood": [
+		"Zagorky,0",
+		"ZagorkyChocolate,0",
+		"ZagorkyPeanuts,0"
+	],
+	"startItems":[
+		"HuntingKnife,0",
+		"WaterBottle,0",
+		"BandageDressing,2"
+	],
+	"startJackets": [
+		"HikingJacket_Black", 
+		"HikingJacket_Blue", 
+		"HikingJacket_Red", 
+		"HikingJacket_Green"
+		],
+	"startJeans": [
+		"Jeans_Black", 
+		"Jeans_Blue", 
+		"Jeans_Brown",
+		"Jeans_Green",
+		"Jeans_BlueDark"
+		],
+	"startBoots": [
+		"WorkingBoots_Green", 
+		"WorkingBoots_Brown", 
+		"HikingBootsLow_Grey", 
+		"HikingBootsLow_Beige", 
+		"HikingBootsLow_Blue",
+		"HikingBootsLow_Black", 
+		"HikingBoots_Black",
+		"HikingBoots_Brown"
+		]
+}
